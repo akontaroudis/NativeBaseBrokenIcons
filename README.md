@@ -1,1 +1,1 @@
-![](/Users/alex/dev/NativeBaseBrokenIcons/NativeBaseBrokenIcons/screenshots/broken_icons.png)
+![](./screenshots/broken_icons.png)
